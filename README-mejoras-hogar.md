@@ -1,6 +1,14 @@
 # Guía Completa de Mejoras en el Hogar
 
-## ## Introducción
+## ## Archivos Markdown
+
+| Archivo | Última Modificación | Tamaño |
+|---------|---------------------|--------|
+| [README-boletin-junio.md](README-boletin-junio.md) | 2025-09-21 | 1.1 KB |
+| [README-boletin-julio.md](README-boletin-julio.md) | 2025-09-21 | 1.2 KB |
+
+
+## ## ## Introducción
 
 Bienvenido a nuestra guía completa de mejoras para el hogar. Este recurso está diseñado para ayudarte a transformar tu espacio de vida con proyectos prácticos, económicos y de alto impacto.
 
