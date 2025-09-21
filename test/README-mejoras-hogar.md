@@ -8,7 +8,7 @@
 | [README-boletin-junio.md](README-boletin-junio.md) | 2025-09-21 | 1.1 KB |
 
 
-## ## Introducción
+## ## ## ## Introducción
 
 Bienvenido a nuestra guía completa de mejoras para el hogar. Este recurso está diseñado para ayudarte a transformar tu espacio de vida con proyectos prácticos, económicos y de alto impacto.
 
